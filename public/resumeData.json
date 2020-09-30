@@ -1,0 +1,52 @@
+{
+  "main": {
+    "name": "Gaurav Kumar",
+    "occupation": "Digital Marketer",
+    "description": "Youtuber",
+    "image": "gauri.jpg",
+    "bio": "My name is Gaurav , I'm a Digital marketer an a sYoutuber. Currently I'm in grade 8 at YPS mohali ",
+    "contactmessage": "Get in touch with me to buy anything from Om Super store",
+    "email": "mastergauravk@gmail.com",
+    "phone": "+91 7508486399",
+    "address": {
+      "street": "#4504 Sector70Mohali",
+      "city": "India",
+      "state": "Punjab",
+      "zip": "160071"
+    },
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/MasterGauravK",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Yadavindra Public School Mohali",
+        "class": "Class : 8"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Marketting",
+        "level": "100%"
+      },
+      {
+        "name": "Bargaining",
+        "level": "100%"
+      },
+      {
+        "name": "Shopkepping",
+        "level": "100%"
+      },
+      {
+        "name":"Youtuber",
+        "level":"100%"
+      }
+    ]
+  }
+}
